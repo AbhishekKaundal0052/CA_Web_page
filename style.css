@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+*{
+ background-color: rgb(0, 0, 0);
+ font-family: 'Name', Roboto;
+}
+.search{
+    font-size:20px;
+    line-height: 10px;
+    cursor:pointer;
+    text-align:center;
+    border:2px solid rgb(135, 135, 135);
+    height:35px;
+    width:500px;
+    margin:auto;
+    word-spacing: 399px;
+    color:white;
+    background-color: black;
+}
+#search{
+    height:fit-content;
+     width:36px;
+     background-color: grey;
+}
+.videos{
+    padding: 5px 5px 50px 50px;
+    text-align: center;
+ 
+}
+.sidenav{
+    border-radius: 10px;
+    background-color: rgb(92, 91, 91);
+    margin-right:1300px;
+    top:30px;
+    left:0;
+    cursor:pointer;
+    position: fixed;
+    height:100%;
+    width:12%;
+}
+.menu{
+    background-color:rgb(92, 91, 91);
+}
